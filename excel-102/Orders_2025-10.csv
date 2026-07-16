@@ -1,0 +1,70 @@
+OrderID,OrderDate,CustomerID,CustomerName,Department,Region,OrderType,ProductCategory,SKU,Priority,Status,ShipMethod,SLADueDate,ShippedDate,Units,UnitCost,UnitPrice,DiscountRate,OrderTotal,AssignedRep
+ORD-100007,2025-10-26,CUST-10044,Pioneer Logistics,Marketing,Central,Services,Cleaning,SKU-Z5232,Medium,Delayed,Overnight,2025-11-02,2025-11-05,10,10.97,15.91,0.0,159.1,Sawyer Allen
+ORD-100043,2025-10-15,CUST-10171, Canyon Group  ,IT,Central,Hardware,Software,SKU-Z4728,Low,Fulfilled,2-Day,2025-10-29,2025-10-23,1,40.94,53.22,0.0,53.22,Jamie Anderson
+ORD-100062,2025-10-21,CUST-10116,Crescent Foundation,IT,Central,Office Supplies,Hardware,SKU-W2139,High,Fulfilled,Ground,2025-10-24,2025-10-27,10,37.42,50.52,0.0,505.2,Avery Thomas
+ORD-100078,2025-10-10,CUST-10031,Canyon Consulting,Procurement,Central,Software,Tech Accessories,SKU-O9900,Medium,Fulfilled,2-Day,2025-10-17,2025-10-19,1,10.88,15.78,0.05,14.99,Sawyer Garcia
+ORD-100096,2025-10-19,CUST-10159,Pioneer Systems,HR,East,Services,Software,SKU-X8019,Medium,Approved,Ground,2025-10-26,,5,9.5,12.83,0.05,60.94,Blake Martinez
+ORD-100098,2025-10-29,CUST-10082,Riverbend Enterprises,Sales,East,Office Supplies,Paper & Printing,SKU-H4139,High,Cancelled,Ground,2025-11-01,,3,67.95,88.34,0.15,225.27,Morgan Brown
+ORD-100108,2025-10-22,CUST-10018,Vertex Industries,IT,Central,Hardware,Hardware,SKU-S2290,Medium,Approved,Pickup,2025-10-29,,5,25.46,31.83,0.0,159.15,Avery Thomas
+ORD-100124,2025-10-24,CUST-10005,Northstar  Associates,HR,W,Office Supplies,Paper & Printing,SKU-X4155,Medium,New,Ground,2025-10-31,,12,19.47,28.23,0.1,304.88,Taylor Smith
+ORD-100170,2025-10-08,CUST-10144,Silverline Solutions,Operations,East,Hardware,Breakroom,SKU-V3851,Medium,Approved,Overnight,2025-10-15,,1,12.71,17.79,0.05,16.9,Casey Brown
+ORD-100219,2025-10-26,CUST-10059,Vertex Consulting,Operations,East,Hardware,Cleaning,SKU-L4432,Medium,Delayed,Pickup,2025-11-02,2025-10-28,10,33.06,47.94,0.1,431.46,Casey Brown
+ORD-100264,2025-10-16,CUST-10082,Riverbend Enterprises,HR,East,Office Supplies,Hardware,SKU-M3503,Medium,Approved,Pickup,2025-10-23,,12,38.55,53.97,0.15,550.49,Jamie Anderson
+ORD-100285,2025-10-19,CUST-10116,Crescent Foundation,Procurement,Central,Hardware,Paper & Printing,SKU-H4139,Low,Fulfilled,Pickup,2025-11-02,2025-10-28,5,67.95,88.34,0.1,397.53,Jamie Young
+ORD-100319,2025-10-09,CUST-10078,Redwood  Associates,Procurement,E,Software,Services,SKU-V4501,Medium,New,Ground,2025-10-16,,20,51.72,67.24,0.0,1344.8,Jamie Anderson
+ORD-100334,2025-10-09,CUST-10069,Silverline Associates,HR,West,Office Supplies,Paper & Printing,SKU-A8508,High,Fulfilled,Overnight,2025-10-12,2025-10-17,2,23.02,28.77,0.0,57.54,Jamie Anderson
+ORD-100373,2025-10-05,CUST-10195,Redwood Partners,Finance,West,Hardware,Tech Accessories,SKU-Z7916,High,Approved,Overnight,2025-10-08,,10,14.05,19.67,0.15,167.2,Reese Lee
+ORD-100423,2025-10-08,CUST-10196,Bright  Enterprises,Marketing,W,Office Supplies,Hardware,SKU-A3496,High,Fulfilled,Pickup,2025-10-11,2025-10-14,10,18.62,26.07,0.05,247.66,Jamie Young
+ORD-100429,2025-10-24,CUST-10160,Summit Systems,HR,Central,Services,Hardware,SKU-M3503,Low,Approved,2-Day,2025-11-07,,1,38.55,53.97,0.0,53.97,Blake Patel
+ORD-100454,2025-10-25,CUST-10126,Riverbend Foundation,Sales,Central,Hardware,Paper & Printing,SKU-E5333,Medium,Approved,Pickup,2025-11-01,,2,16.51,23.94,0.0,47.88,Jamie Johnson
+ORD-100465,2025-10-07,CUST-10106,Pioneer Associates,Procurement,West,Hardware,Software,SKU-J4443,Medium,Fulfilled,Overnight,2025-10-14,2025-10-14,10,38.36,53.7,0.0,537.0,Jamie Johnson
+ORD-100476,2025-10-07,CUST-10052,Summit  Solutions,IT,C,Office Supplies,Tech Accessories,SKU-Z7916,Medium,Fulfilled,Pickup,2025-10-14,2025-10-10,10,14.05,19.67,0.15,167.2,Jamie Anderson
+ORD-100477,2025-10-24,CUST-10085,Bright  Partners,Procurement,E,Office Supplies,Software,SKU-E6718,Low,Fulfilled,Pickup,2025-11-07,2025-11-01,5,20.79,28.07,0.0,140.35,Taylor Brown
+ORD-100487,2025-10-04,CUST-10090,Redwood Associates,Finance,Central,Office Supplies,Tech Accessories,SKU-I8579,Medium,New,Overnight,2025-10-11,,1,24.35,34.09,0.1,30.68,Sawyer Garcia
+ORD-100501,2025-10-21,CUST-10021,Pioneer Consulting,HR,West,Services,Hardware,SKU-I7484,Medium,Fulfilled,2-Day,2025-10-28,2025-10-22,10,26.96,37.74,0.05,358.53,Jordan Lee
+ORD-100510,2025-10-13,CUST-10052,Summit Solutions,Procurement,Central,Services,Hardware,SKU-R4295,Medium,Cancelled,2-Day,2025-10-20,,1,18.18,24.54,0.1,22.09,Jamie Young
+ORD-100517,2025-10-26,CUST-10019,Crescent Holdings,Sales,,Office Supplies,Breakroom,SKU-A7396,Low,Fulfilled,Ground,2025-11-09,2025-11-05,3,12.54,16.93,0.0,50.79,Blake Patel
+ORD-100520,2025-10-02,CUST-10183,Apex  Industries,HR,C,Office Supplies,Ergonomics,SKU-D8119,Medium,Approved,Overnight,2025-10-09,,1,29.44,41.22,0.05,39.16,Cameron Robinson
+ORD-100525,2025-10-27,CUST-10082,Riverbend Enterprises,Operations,East,Software,Breakroom,SKU-Y1320,Medium,New,Pickup,2025-11-03,,12,20.81,29.13,0.05,332.08,Avery Thomas
+ORD-100529,2025-10-03,CUST-10064, Cobalt Systems  ,HR,Central,Office Supplies,Paper & Printing,SKU-H4139,Medium,Approved,Ground,2025-10-10,,12,67.95,88.34,0.0,1060.08,Jordan Lee
+ORD-100543,2025-10-08,CUST-10195,Redwood Partners,IT,West,Office Supplies,Paper & Printing,SKU-X4155,High,Approved,2-Day,2025-10-11,,12,19.47,28.23,0.0,338.76,Blake Martinez
+ORD-100550,2025-10-22,CUST-10095, Blue Ridge Services  ,Operations,East,Hardware,Hardware,SKU-V5088,High,Fulfilled,Pickup,2025-10-25,2025-10-30,12,19.85,28.78,0.15,293.56,Jamie Johnson
+ORD-100602,2025-10-12,CUST-10178,Northstar Partners,Finance,West,Hardware,Tech Accessories,SKU-P9502,Low,Fulfilled,2-Day,2025-10-26,2025-10-18,10,37.1,48.23,0.05,458.18,Sawyer Lee
+ORD-100603,2025-10-08,CUST-10178,Northstar Partners,Marketing,West,Hardware,Tech Accessories,SKU-V8787,Medium,Fulfilled,2-Day,2025-10-15,2025-10-18,5,11.21,15.13,0.0,75.65,Taylor Brown
+ORD-100610,2025-10-03,CUST-10027,Crescent Services,Procurement,East,Hardware,Breakroom,SKU-O8253,High,New,Ground,2025-10-06,,3,23.55,31.79,0.0,95.37,Morgan Brown
+ORD-100622,2025-10-10,CUST-10023,Cobalt  Enterprises,Procurement,E,Hardware,Breakroom,SKU-I7906,Low,Delayed,Ground,2025-10-24,2025-10-17,3,18.45,25.83,0.15,65.87,Jordan White
+ORD-100648,2025-10-27,CUST-10102,Riverbend Holdings,Operations,West,Office Supplies,Hardware,SKU-S2290,Medium,Approved,2-Day,2025-11-03,,12,25.46,31.83,0.1,343.76,Skyler Jackson
+ORD-100650,2025-10-25,CUST-10154,Bright Associates,HR,West,Office Supplies,Breakroom,SKU-O8253,High,Cancelled,Pickup,2025-10-28,,5,23.55,31.79,0.05,151.0,Sawyer Garcia
+ORD-100696,2025-10-31,CUST-10160,Summit  Systems,Marketing,C,Hardware,Tech Accessories,SKU-J2771,Medium,Fulfilled,Overnight,2025-11-07,2025-11-10,1,29.39,39.68,0.0,39.68,Skyler Jackson
+ORD-100697,2025-10-06,CUST-10039,Redwood Systems,Operations,Central,Office Supplies,Hardware,SKU-Q1434,Medium,Approved,Pickup,2025-10-13,,5,35.03,50.79,0.0,253.95,Jamie Johnson
+ORD-100760,2025-10-08,CUST-10100,Blue Ridge Associates,Procurement,East,Software,Cleaning,SKU-B1821,Low,Fulfilled,2-Day,2025-10-22,2025-10-10,5,8.35,12.11,0.0,60.55,Skyler Jackson
+ORD-100781,2025-10-21,CUST-10001,Blue Ridge Holdings,Operations,Central,Office Supplies,Tech Accessories,SKU-O9900,Low,Approved,Ground,2025-11-04,,2,10.88,15.78,0.0,31.56,Cameron Garcia
+ORD-100816,2025-10-14,CUST-10108,Blue Ridge Partners,Operations,Central,Services,Paper & Printing,SKU-H4139,High,Approved,Overnight,2025-10-17,,3,67.95,88.34,0.1,238.52,Reese Lee
+ORD-100841,2025-10-06,CUST-10052,Summit Solutions,Finance,Central,Software,Breakroom,SKU-V3851,Low,Approved,Pickup,2025-10-20,,2,12.71,17.79,0.1,32.02,Casey Brown
+ORD-100844,2025-10-02,CUST-10018,Vertex Industries,Sales,Central,Office Supplies,Paper & Printing,SKU-X4155,Low,Approved,Ground,2025-10-16,,3,19.47,28.23,0.05,80.46,Taylor Brown
+ORD-100898,2025-10-07,CUST-10172,Crescent  Consulting,Procurement,W,Office Supplies,Tech Accessories,SKU-Q9085,Medium,Delayed,Ground,2025-10-14,2025-10-16,2,18.01,22.51,0.05,42.77,Jamie Anderson
+ORD-100901,2025-10-12,CUST-10132,Blue Ridge Solutions,Procurement,East,Software,Tech Accessories,SKU-Q9085,Medium,Fulfilled,Pickup,2025-10-19,2025-10-16,5,18.01,22.51,0.1,101.3,Skyler Clark
+ORD-100909,2025-10-02,CUST-10157,Canyon Group,Sales,West,Office Supplies,Services,SKU-V4501,Medium,New,Ground,2025-10-09,,1,51.72,67.24,0.05,63.88,Morgan Brown
+ORD-100932,2025-10-01,CUST-10065,Cobalt Partners,Sales,East,Hardware,Paper & Printing,SKU-U8022,Medium,New,2-Day,2025-10-08,,5,29.86,38.82,0.0,194.1,Skyler Jackson
+ORD-100939,2025-10-29,CUST-10045,Harbor  Enterprises,Finance,C,Software,Software,SKU-Q3927,Low,Fulfilled,Overnight,2025-11-12,2025-11-02,2,11.28,15.23,0.15,25.89,Jamie Young
+ORD-100944,2025-10-25,CUST-10026,Crescent Industries,Finance,East,Office Supplies,Ergonomics,SKU-C4750,Medium,Fulfilled,2-Day,2025-11-01,2025-11-01,2,46.0,62.1,0.0,124.2,Morgan Brown
+ORD-100979,2025-10-10,CUST-10110,Canyon Holdings,IT,East,Office Supplies,Tech Accessories,SKU-H3662,Medium,Fulfilled,Pickup,2025-10-17,2025-10-16,12,16.91,21.14,0.0,253.68,Morgan Brown
+ORD-100981,2025-10-14,CUST-10108,Blue Ridge Partners,Operations,Central,Office Supplies,Software,SKU-N8956,Low,Approved,Ground,2025-10-28,,1,8.22,11.1,0.05,10.54,Jamie Anderson
+ORD-100990,2025-10-01,CUST-10042,Harbor Partners,Sales,West,Office Supplies,Services,SKU-C1878,Medium,Cancelled,Ground,2025-10-08,,20,27.0,39.15,0.0,783.0,Casey Brown
+ORD-101041,2025-10-27,CUST-10192,Summit Associates,Finance,,Software,Hardware,SKU-G8933,Medium,Approved,Pickup,2025-11-03,,20,20.32,25.4,0.15,431.8,Taylor Smith
+ORD-101042,2025-10-28,CUST-10018,Vertex Industries,HR,Central,Hardware,Paper & Printing,SKU-B6413,Medium,Fulfilled,Pickup,2025-11-04,2025-11-07,10,30.16,40.72,0.0,407.2,Blake Patel
+ORD-101059,2025-10-14,CUST-10079,Crescent Enterprises,Operations,East,Hardware,Cleaning,SKU-R8633,Low,New,Overnight,2025-10-28,,5,25.74,33.46,0.1,150.57,Sawyer Allen
+ORD-101068,2025-10-19,CUST-10139,Vertex Logistics,HR,West,Office Supplies,Paper & Printing,SKU-B6413,Low,Fulfilled,Ground,2025-11-02,2025-10-24,5,30.16,40.72,0.1,183.24,Cameron Robinson
+ORD-101072,2025-10-12,CUST-10158,Crescent Foundation,HR,West,Software,Hardware,SKU-D7227,Low,New,Pickup,2025-10-26,,12,18.95,25.58,0.0,306.96,Blake Martinez
+ORD-101092,2025-10-16,CUST-10080,Northstar Partners,Sales,East,Hardware,Software,SKU-N8956,High,Approved,Overnight,2025-10-19,,5,8.22,11.1,0.15,47.17,Jamie Johnson
+ORD-101114,2025-10-13,CUST-10127,Vertex Services,HR,West,Hardware,Software,SKU-M6363,Low,New,2-Day,2025-10-27,,12,55.3,74.66,0.1,806.33,Avery Thomas
+ORD-101137,2025-10-04,CUST-10085,Bright Partners,Marketing,East,Software,Hardware,SKU-R4295,High,Fulfilled,2-Day,2025-10-07,2025-10-09,5,18.18,24.54,0.1,110.43,Jordan Lee
+ORD-101173,2025-10-17,CUST-10055,Bright Logistics,Operations,East,Office Supplies,Hardware,SKU-A3496,Medium,Approved,Ground,2025-10-24,,3,18.62,26.07,0.15,66.48,Sawyer Allen
+ORD-101204,2025-10-11,CUST-10004,Vertex Logistics,Sales,Central,Software,Breakroom,SKU-O1887,Medium,Fulfilled,Pickup,2025-10-18,2025-10-12,3,17.62,24.67,0.1,66.61,Morgan Brown
+ORD-101226,2025-10-02,CUST-10153,Evergreen Industries,IT,West,Hardware,Paper & Printing,SKU-Z1672,Low,New,2-Day,2025-10-16,,3,32.53,43.92,0.0,131.76,Cameron Robinson
+ORD-101357,2025-10-26,CUST-10179,Riverbend Enterprises,Procurement,East,Office Supplies,Tech Accessories,SKU-L3646,Low,Fulfilled,2-Day,2025-11-09,2025-11-04,2,54.93,79.65,0.0,159.3,Sawyer Allen
+ORD-101362,2025-10-18,CUST-10030,Pioneer Group,Marketing,Central,Office Supplies,Hardware,SKU-M3503,Medium,Approved,2-Day,2025-10-25,,12,38.55,53.97,0.15,550.49,Sawyer Lee
+ORD-101407,2025-10-01,CUST-10134,Harbor Industries,HR,East,Office Supplies,Software,SKU-Z4728,High,Fulfilled,Ground,2025-10-04,2025-10-10,10,40.94,53.22,0.05,505.59,Blake Martinez
+ORD-101420,2025-10-21,CUST-10057,Silverline Systems,Finance,Central,Software,Hardware,SKU-E1400,Low,Fulfilled,Ground,2025-11-04,2025-10-29,10,42.6,59.64,0.1,536.76,Jordan Lee
+ORD-101439,2025-10-19,CUST-10194,Summit Enterprises,Sales,,Software,Software,SKU-Q3927,Medium,Fulfilled,Pickup,2025-10-26,2025-10-24,12,11.28,15.23,0.0,182.76,Jordan Lee
+ORD-101478,2025-10-03,CUST-10129,Canyon Partners,Operations,East,Services,Cleaning,SKU-I2137,Low,New,Pickup,2025-10-17,,2,15.46,22.42,0.0,44.84,Avery Thomas
